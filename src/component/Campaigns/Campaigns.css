@@ -1,0 +1,21 @@
+.campaign-body{
+    background: #b6edf8;
+    /* background-color: #01b0d3; */
+}
+.page-title{
+    color: black;
+    font-weight: 700;
+}
+.card-design{
+    border-radius: 10px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+}
+.creator-name ,.title-design{
+    color: #01b0d3;
+}
+.campaign-button{
+    background-color: #01b0d3;
+}
+.backToTop img{
+    height: 50px;
+}

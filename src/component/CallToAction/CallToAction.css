@@ -1,0 +1,17 @@
+.cta-section {
+     background-color: #01b0d3;
+     height: 135px;
+}
+.cta {
+    color: white;
+    line-height: 4;
+}
+.cta h3 {
+    font-weight: 700;
+}
+
+.cta-btn {
+    color: #01b0d3;
+    font-weight: 700;
+
+}

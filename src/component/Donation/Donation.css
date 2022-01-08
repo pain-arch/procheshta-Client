@@ -1,0 +1,22 @@
+.donation-img img{
+    border-radius: 50%;
+    width: 350px;
+}
+
+.donation-img {
+    display: flex; 
+    justify-content: space-around; 
+}
+.input-design{
+    border: none;
+    border-bottom: 3px solid #01B0D3;
+    padding: 15px;
+}
+.div-design{
+    border:3px solid #01B0D3;
+}
+
+.donation-form {
+    transform: translate(0%,34%);
+    background-color: white;
+}

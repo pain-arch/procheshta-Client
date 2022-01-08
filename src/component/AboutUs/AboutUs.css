@@ -1,0 +1,26 @@
+/* .about-us {
+    width: 50%;
+} */
+
+.uper-section {
+  background-color: #5edffc;
+  padding: 60px;
+  text-align: center;
+}
+
+.uper-section h2 {
+  margin-bottom: 0rem;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.lower-section {
+ background-color: #0fbbdd;
+ padding: 10px;
+}
+.lower-section p {
+  font-size: 20px;
+  font-weight: 600;
+  padding: 40px;
+  color: white
+}

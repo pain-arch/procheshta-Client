@@ -1,0 +1,23 @@
+.bg-design{
+    background-color: #f5f7ff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bg-design h2{
+    color: #fcc000;
+    font-size: 65px;
+    margin-bottom: 30px;
+}
+.upload-pic{
+    width: 20%;
+    margin-top: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    color: black;
+    background-color: rgb(195, 229, 188);
+    cursor: pointer;
+    padding: 9px;
+    border: 1px solid green ;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}

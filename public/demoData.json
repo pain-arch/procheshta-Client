@@ -1,0 +1,92 @@
+[
+    {
+        "key" : "jklf1",
+        "title": "Blood Donation",
+        "description": "Every year, on 14 June, countries around the world celebrate World Blood Donor Day. The event serves to thank voluntary, unpaid blood donors for their life-saving gifts of blood and to raise awareness of the need for regular blood donations to ensure the quality, safety and availability of blood and blood products for patients in need.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/913840935379537920/pexels-charliehelen-robinson-4531306.jpg",
+        "creatorName": "Himu",
+        "date": "12-03-21",
+        "place": "Robindro Sorobor",
+        "status": "upcoming"
+    },
+    {
+        "key" : "jklf2",
+        "title": "Flood Relief",
+        "description": "More than 25 million people have been affected by severe flooding across India, Nepal, Bangladesh, Pakistan, Afghanistan, and Myanmar during the 2020 monsoon season. Recent floods have taken the lives of 550 people across the region due to storm waters and landslides. One-third of Bangladesh's delta region remains under water, and 300,000 individuals in India's Bihar state have been evacuated to relief camps. This fund will provide immediate relief to survivors and support long-term recovery.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914091579441020938/5b7e41b1a310add1c6983a44.jpg",
+        "creatorName": "Tasdiq",
+        "date": "12-03-21",
+        "place": "Kishoreganj,Neelganj",
+        "status": "done"
+    },
+    {
+        "key" : "jklf3",
+        "title": "Capital Campaign",
+        "description": "A fundraising campaign is fundraising that happens over an extended period of time and highlights a specific, predetermined goal. Nonprofits use fundraising campaigns to raise awareness about their missions, and more specifically, the program or initiative for which they are currently soliciting donations.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914119836014096384/Online-Fundraising.jpg",
+        "creatorName": "Ratry",
+        "date": "12-03-21",
+        "place": "Cumilla,Race Course",
+        "status": "upcoming"
+    },
+    {
+        "key" : "jklf4",
+        "title": "Food For Everyone",
+        "description": "The Capital Area Food Bank relies on support from retailers, community groups, and people like you to help us get food onto the plates of those who need it. The most efficient way to do that is through a monetary donation, though we gladly accept food donations as well. By providing foods that are high fiber, low sugar, and low in sodium, you’ll enable children and families to have the kinds of nutritious meals they need to maintain health.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914123863921655828/Feeding-Indin.png",
+        "creatorName": "John Doe",
+        "date": "12-03-21",
+        "place": "Hathajari, Chattogram",
+        "status": "upcoming"
+    },
+    {
+        "key" : "jklf5",
+        "title": "Mental Healing",
+        "description": "A recent report  by the World Health Organization (WHO) highlights the widespread concerns about the impact of the COVID-19 pandemic on people’s mental health. The isolation brought about by lockdown, fear of infection, financial worries and bereavement have all contributed to increasing levels of stress and anxiety.  In addition, mental health services have been severely disrupted during the pandemic; according to a WHO survey conducted in mid-2020, the pandemic had disrupted or halted mental health services in 93% of the 130 countries responding.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914127861223411832/2d97471e-29af-4c5e-bbce-fed16fd16ce6-mental-health-3332122_1280.png",
+        "creatorName": "Himu",
+        "date": "12-03-21",
+        "place": "TSC, Dhaka",
+        "status": "done"
+    },
+    {
+        "key" : "jklf6",
+        "title": "Trash Killing",
+        "description": "Solid waste is any material that is primarily not a liquid or gas and is unwanted and/or unvalued, discarded by its owner, and can be from domestic, commercial or industrial operations. Globally, there are ongoing campaigns to promote sustainable use of the environment while considering the negative effects of waste in general as well as climate change, which have become evident in a number of regions.",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914129986523398144/lake-lanao-cleanup.jpg",
+        "creatorName": "Himu",
+        "date": "12-03-21",
+        "place": "Inani Beach, Cox's Bazar",
+        "status": "done"
+    },
+    {
+        "key" : "jklf7",
+        "title": "Education Awareness",
+        "description": "Proper and good education is very important for all of us. It facilitates quality learning all through the life among people of any age group, cast, creed, religion and region. It is the process of achieving knowledge, values, skills, beliefs, and moral habits. People need to get high level awareness about the importance of knowledge more than before. Education is very necessary for each and everyone in order to improve knowledge, way of living as well as social and economic status throughout the life",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/914136681752428616/ec-undp-jtf-nepal-news-stories-making-it.jpg",
+        "creatorName": "Tasdiq",
+        "date": "12-03-21",
+        "place": "Robindro Sorobor",
+        "status": "upcoming"
+    },
+    {
+        "key" : "jklf8",
+        "title": "Anti Pollution",
+        "description": "Every year, on 14 June, countries around the world celebrate World Blood Donor Day. The event serves to thank voluntary, unpaid blood donors for their life-saving gifts of blood and to raise awareness of the need for regular blood donations to ensure the quality, safety and availability of blood and blood products for patients in need......",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/919870345413029900/kpto910ettbv1q021.jpg",
+        "creatorName": "Himu",
+        "date": "12-03-21",
+        "place": "Robindro Sorobor",
+        "status": "done"
+    },
+    {
+        "key" : "jklf9",
+        "title": "Hygiene Education",
+        "description": "Every year, on 14 June, countries around the world celebrate World Blood Donor Day. The event serves to thank voluntary, unpaid blood donors for their life-saving gifts of blood and to raise awareness of the need for regular blood donations to ensure the quality, safety and availability of blood and blood products for patients in need......",
+        "campaignImg": "https://cdn.discordapp.com/attachments/560412279078780938/919872760417771530/IMG_0309.jpg",
+        "creatorName": "Himu",
+        "date": "12-03-21",
+        "place": "Robindro Sorobor",
+        "status": "upcoming"
+    }
+]

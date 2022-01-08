@@ -1,0 +1,10 @@
+.navbar-light .navbar-toggler-icon {
+    background-image: url("../../images/navbarTogglerIcon.png");
+}
+.navbar-light .navbar-toggler {
+    color: rgb(255 251 251);
+    border-color: rgba(0,0,0,.1);
+}
+.navlinks:hover{
+    border-bottom: 2px solid white;
+}

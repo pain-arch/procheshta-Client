@@ -1,0 +1,16 @@
+.contact-icon{
+    width: 65px;
+}
+
+.icon-and-info {
+    display: flex;
+}
+.input-text-design{
+    border: 3px solid #01b0d3;
+}
+.contact-form{
+    background-color: white;
+}
+.bg-info{
+    font-size: 20px;
+}
